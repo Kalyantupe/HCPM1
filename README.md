@@ -1,2 +1,1 @@
-# HCPM1
-HCPM1
+# HCPM
